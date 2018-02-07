@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1504305535 source:d:\work\16. ethical hacking education\evil stuff\ninjals\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+	"Regist.h"
+	"ReportLog.h"
+
+1504308434 d:\work\16. ethical hacking education\evil stuff\ninjals\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1499267990 d:\work\16. ethical hacking education\evil stuff\ninjals\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1504306451 d:\work\16. ethical hacking education\evil stuff\ninjals\base64.h
+	<vector>
+	<string>
+
+1504314463 d:\work\16. ethical hacking education\evil stuff\ninjals\keyconstants.h
+	<map>
+	<string>
+	<vector>
+
+1501445117 d:\work\16. ethical hacking education\evil stuff\ninjals\timer.h
+	"mingw.thread.h"
+	<chrono>
+
+1518029493 d:\work\16. ethical hacking education\evil stuff\ninjals\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+	"config.h"
+
+1518028397 d:\work\16. ethical hacking education\evil stuff\ninjals\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"Helper.h"
+	"SendMail.h"
+	"HTTPPost.h"
+	"ScreenShotter.h"
+	"config.h"
+
+1499121177 d:\work\16. ethical hacking education\evil stuff\ninjals\regist.h
+	<string>
+	<cstdlib>
+	<sstream>
+	"windows.h"
+
+1504181299 d:\work\16. ethical hacking education\evil stuff\ninjals\reportlog.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"Timer.h"
+	"SendMail.h"
+	"Helper.h"
+	"HTTPPost.h"
+	"config.h"
+
+1501445154 d:\work\16. ethical hacking education\evil stuff\ninjals\mingw.thread.h
+	<windows.h>
+	<functional>
+	<memory>
+	<chrono>
+	<system_error>
+	<cerrno>
+	<process.h>
+
+1504309056 d:\work\16. ethical hacking education\evil stuff\ninjals\httppost.h
+	<string>
+	<sstream>
+	<windows.h>
+	<winsock2.h>
+	<stdio.h>
+	<stdint.h>
+	<iostream>
+	"config.h"
+	"picosha2.h"
+
+1518029499 d:\work\16. ethical hacking education\evil stuff\ninjals\config.h
+	<map>
+	<string>
+	<vector>
+
+1504181782 d:\work\16. ethical hacking education\evil stuff\ninjals\picosha2.h
+	<algorithm>
+	<cassert>
+	<iterator>
+	<sstream>
+	<vector>
+
+1504310091 d:\work\16. ethical hacking education\evil stuff\ninjals\screenshotter.h
+	<iostream>
+	<windows.h>
+	<gdiplus.h>
+	<memory>
+	"Base64.h"
+
